@@ -36,4 +36,5 @@ Give your table a new name to use in Access. Click Finish.
 
 
 ## Getting Data from a folder 
-select Data Menu - Get data 
+select Data Menu - Get data from File - File folder
+
