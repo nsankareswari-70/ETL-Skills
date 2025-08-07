@@ -27,3 +27,6 @@ Select the sheets you want to copy to Access and click "Next"
 
 Check the first row contains Headings and click "Next"    
 ![img alt]( https://github.com/nsankareswari-70/ETL-Skills/blob/0df50c502711865b46838835aea01cc8d186c683/ex99.png)
+
+Give your table a new name to use in Access. Click Finish.
+![img alt]( https://github.com/nsankareswari-70/ETL-Skills/blob/0df50c502711865b46838835aea01cc8d186c683/ex100.png)
