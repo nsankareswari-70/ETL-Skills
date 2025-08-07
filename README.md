@@ -9,6 +9,11 @@
 
   Now you can view the converted Excel file by going to the destination location and clicking the Excel file. Here it's the Office_Address_List.xlsx
 
-  
+  ## How to bring Excel data to Access
+  - Open the Access Application
+  - From the External Data tab - Click on the New Data Source
+    
+  - And then click Excel
+  - 
   
 
