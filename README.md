@@ -33,3 +33,7 @@ Give your table a new name to use in Access. Click Finish.
  Now you can view your new table in Access. Now close this access file. Go to excel and make some changes in the original file. Here i changed the ID3 name from Lu.Mr.Phil to Lu.Mr.Philipo. And that change in excel is automatically reflected in 
  Access table ...Awesome right! That's because we used "Link to the data source by creating a linked table" option from the wizard.
  ![img alt]( https://github.com/nsankareswari-70/ETL-Skills/blob/0df50c502711865b46838835aea01cc8d186c683/ex101.png)
+
+
+## Getting Data from a folder 
+select Data Menu - Get data 
