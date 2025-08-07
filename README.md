@@ -21,4 +21,5 @@
 Now specify the destination file location and file name, and click the "Link to the data source by creating a linked table" option from the wizard.
 
    ![img alt]( https://github.com/nsankareswari-70/ETL-Skills/blob/0df50c502711865b46838835aea01cc8d186c683/ex97.png)
-Select the sheets you want to copy to Access and click
+Select the sheets you want to copy to Access and click "Next"   
+
