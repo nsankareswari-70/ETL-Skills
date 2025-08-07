@@ -6,5 +6,9 @@
   ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/f2a58c9672b9877cd4b8c96c249e57e5b8d09b97/ex94.png)
 
   Specify the destination and click ok.
+
+  Now you can view the converted Excel file by going to the destination location and clicking the Excel file. Here it's the Office_Address_List.xlsx
+
+  
   
 
