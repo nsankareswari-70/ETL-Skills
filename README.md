@@ -38,3 +38,7 @@ Give your table a new name to use in Access. Click Finish.
 ## Getting Data from a folder 
 select Data Menu - Get data from File - File folder
 
+ ![img alt]( https://github.com/nsankareswari-70/ETL-Skills/blob/0df50c502711865b46838835aea01cc8d186c683/ex102.png)
+
+
+
