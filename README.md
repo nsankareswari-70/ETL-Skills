@@ -61,4 +61,6 @@ Now click the close and load button - to view the sql server data in excel file.
 
 ## Getting Data from a csv file using Legacy wizard in excel
    ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/253809018528be0734a0a1d27b9c10d4f4f17434/ex106.png)
-
+From the options menu - click the Data settings. Then click    
+From Text legacy import Wizard. Click Ok.    
+Select Delimiter and the location you want to copy your data. 
