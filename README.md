@@ -48,3 +48,15 @@ The files inside the folder are displayed.
 Click combine and transform data       
 click ok      
 
+
+## Getting Data from sqlserver database to excel
+From the Data tab - Get data - From Database -  Sql server Database
+Give the server name and the database name - in the advanced options area -    
+select top 100 * from Person.Address;  
+
+Type the above to get only the 100 records (optional)
+
+Then click Load - The data is now loaded in to the excel power query.
+Now click the close and load button - to view the sql server data in excel file.  
+
+
