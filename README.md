@@ -59,4 +59,6 @@ Type the above to get only the 100 records (optional)
 Then click Load - The data is now loaded in to the excel power query.
 Now click the close and load button - to view the sql server data in excel file.  
 
+## Getting Data from a csv file using Legacy wizard in excel
+   ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/df59d41363d47255c88d47f00c9b364040d1b72d/ex106.png)
 
