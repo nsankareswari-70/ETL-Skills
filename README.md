@@ -64,3 +64,6 @@ Now click the close and load button - to view the sql server data in excel file.
 From the options menu - click the Data settings. Then click    
 From Text legacy import Wizard. Click Ok.    
 Select Delimiter and the location you want to copy your data. 
+
+## Connecting Mysql database to excel
+
