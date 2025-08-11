@@ -106,3 +106,7 @@ click ok
 
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/403621436d4cf1ce9a9a5ef1beb07bc53fe89ffd/ex125.png)
 
+
+ ## Import CSV file to excel
+ 
+
