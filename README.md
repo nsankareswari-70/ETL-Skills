@@ -67,3 +67,6 @@ Select Delimiter and the location you want to copy your data.
 
 ## Connecting Mysql database to excel
 
+To get the books table data from hello_world_db database from Mysql to excel
+ ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex118.png)
+
