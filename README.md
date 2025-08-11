@@ -98,5 +98,7 @@ Now the data will be loaded to excel
  
 From the excel file - From File menu - Export - Change File Type - select CSV and click "Save as" and give a new name for the file
 click ok
- ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex124.png)
+
+
+
  
