@@ -99,6 +99,6 @@ Now the data will be loaded to excel
 From the excel file - From File menu - Export - Change File Type - select CSV and click "Save as" and give a new name for the file
 click ok
 
-
+ ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/07f9bdb0c56b9e9385248a799ad64ebb42c11113/ex124.png)
 
  
