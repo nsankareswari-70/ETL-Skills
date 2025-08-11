@@ -103,5 +103,6 @@ click ok
 
  From the destination, you can open and read your CSV file
 
+
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/07f9bdb0c56b9e9385248a799ad64ebb42c11113/ex125.png)
 
