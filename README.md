@@ -69,8 +69,25 @@ Select Delimiter and the location you want to copy your data.
 
 To get the books table data from hello_world_db database from Mysql to excel
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex118.png)
+
+ Open a New excel workbook - From the home tab click Get Data-> From other sources -> From ODBC
+
+ 
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex119.png)
+ From ODBC dialogue box select the Data Source Name(DSN) - hello_world_db
+
+ 
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex120.png)
+ In the Navigator window find and click on the hello_world_db to view the tables
+
+ 
   ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex121.png)
+  Now select the "Books" table and click "Load"
+
+  
    ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex122.png)
+   
+Now the data will be loaded to excel
+
+
     ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/44ce4107d2d6a375ec9d5e6f3a2d84a3ef3b4c54/ex123.png)
