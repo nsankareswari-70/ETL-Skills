@@ -111,6 +111,9 @@ click ok
 
  ## Import CSV file to excel
   ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/861ed8b47dab117b4ef05fd53c1cf5f25ee5a7ae/ex126.png)
+
+From the Data menu select from Text/CSV
+  
    ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/861ed8b47dab117b4ef05fd53c1cf5f25ee5a7ae/ex127.png)
     ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/861ed8b47dab117b4ef05fd53c1cf5f25ee5a7ae/ex128.png)
 
