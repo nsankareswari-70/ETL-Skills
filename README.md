@@ -136,3 +136,6 @@ Data will be now loaded in to excel in a table format.
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex134.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex135.png)
 
+## Importing data from a XML file
+
+
