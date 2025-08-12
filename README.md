@@ -131,6 +131,8 @@ Data will be now loaded in to excel in a table format.
 ### Invoke the custom function to work with Revtable function and pagenum
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex132.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex133.png)
+
+### Power query will pull the page number and one table for each page number. Now we don't need the page number column. so delete it. Now expand the tables. And load it to the excel sheet.
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex134.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex135.png)
 
