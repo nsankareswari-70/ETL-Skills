@@ -149,3 +149,11 @@ example :=IMPORTHTML("https://en.wikipedia.org/wiki/Google", "table", 1)
 query might be table or list
 Index number would be the number 
 
+Importing data from the netflix url
+https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2021)
+
+=IMPORTHTML("https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2021)","table",1)
+
+Result:
+
+
