@@ -142,3 +142,10 @@ same method - Get Data - from XML file - locate the file from your device and cl
 Excel power query will be open and make the changes you want and click the close and load button to bring the data to excel.
 
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/e2892b15cac667d33ce4eea9a89098011b2c573a/ex136.png)
+
+## Importing web data from Google sheets using Importhml() function:
+syntax: =IMPORTHTML(url, query, index)    
+example :=IMPORTHTML("https://en.wikipedia.org/wiki/Google", "table", 1)     
+query might be table or list
+Index number would be the number 
+
