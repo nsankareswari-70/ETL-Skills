@@ -120,3 +120,5 @@ Data will be now loaded in to excel in a table format.
 
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/2bf329f9701756cbdbb1aabc1729b29f3397eb88/ex128.png)
 
+## Collecting data from multiple web pages
+
