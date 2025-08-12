@@ -121,7 +121,11 @@ Data will be now loaded in to excel in a table format.
  ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/2bf329f9701756cbdbb1aabc1729b29f3397eb88/ex128.png)
 
 ## Collecting data from multiple web pages
+
+### Pick a webpage and copy its URL, paste it in the box to retrieve data
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex130.png)
+
+
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex131.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex132.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex133.png)
