@@ -137,5 +137,8 @@ Data will be now loaded in to excel in a table format.
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/a3ba27e6eb7bf0e6a0a22e16c500cd4a581d56fa/ex135.png)
 
 ## Importing data from a XML file
+same method - Get Data - from XML file - locate the file from your device and click import.
 
+Excel power query will be open and make the changes you want and click the close and load button to bring the data to excel.
 
+![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/e2892b15cac667d33ce4eea9a89098011b2c573a/ex136.png)
