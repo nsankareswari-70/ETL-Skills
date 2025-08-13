@@ -172,3 +172,4 @@ Result:
 
 =IMPORTHTML("https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue","Table",1)
 
+![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/73ddfe665543ff0bc62df49b1348853eabfe3f94/ex138.png)
