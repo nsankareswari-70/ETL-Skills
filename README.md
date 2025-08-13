@@ -144,6 +144,17 @@ Excel power query will be open and make the changes you want and click the close
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/e2892b15cac667d33ce4eea9a89098011b2c573a/ex136.png)
 
 ## Importing web data from Google sheets using Importhml() function:
+
+### Web Scraping Using Google sheets
+- Has many uses, such as...
+  - monitoring competitor prices
+  - tracking financial trends
+  - automating data collection for reporting
+- Google sheets provide simple functions that make this process accessible - without coding
+- Excel also has web scraping capabilities but has limitations compared to Google sheets
+    - Google sheets operates entirely online
+    - Excel often required manual refreshes or VBA scripting to maintain live connections
+      
 syntax: =IMPORTHTML(url, query, index)    
 example :=IMPORTHTML("https://en.wikipedia.org/wiki/Google", "table", 1)     
 query might be table or list
