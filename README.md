@@ -181,6 +181,7 @@ More Examples:
 =importxml("https://www.mollyjogger.com/collections/inventory","//a[contains(@class,'product-title')]")
 
 =importxml("https://www.mollyjogger.com/collections/inventory","//span[contains(@class,'money')][not(contains(@class,'original-price'))]")
+![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/2fc46a6c4c904b1441c1b114235f29d9dccf00cc/ex139.png)
 
 
 
