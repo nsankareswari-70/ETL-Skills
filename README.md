@@ -173,3 +173,14 @@ Result:
 =IMPORTHTML("https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue","Table",1)
 
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/73ddfe665543ff0bc62df49b1348853eabfe3f94/ex138.png)
+
+More Examples:
+
+### Collecting product names and their prices from a website
+
+=importxml("https://www.mollyjogger.com/collections/inventory","//a[contains(@class,'product-title')]")
+
+=importxml("https://www.mollyjogger.com/collections/inventory","//span[contains(@class,'money')][not(contains(@class,'original-price'))]")
+
+
+
