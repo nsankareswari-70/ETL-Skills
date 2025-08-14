@@ -191,6 +191,6 @@ And I want to append one after the other.
 This importrange function helps us to combine data from two different pages from a worksheet and combine them to a new worksheet.
 
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/62fb739550db73cb4d265ff0b67772dcc1fd284e/ex140.png)
-![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/2fc46a6c4c904b1441c1b114235f29d9dccf00cc/ex141.png)
+![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/62fb739550db73cb4d265ff0b67772dcc1fd284e/ex141.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/2fc46a6c4c904b1441c1b114235f29d9dccf00cc/ex142.png)
 
