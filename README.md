@@ -185,7 +185,7 @@ More Examples:
 
 ## importrange function in Google Sheets
 In this case, I have data in 2 different worksheet pages. HR information - HR2010 and HR2011
-And I want to append one after the other.
+And I want to append one after the other.    
 ={importrange("https://docs.google.com/spreadsheets/d/14wNl76Uv6UrByYmB3UVp8MzAiqNicVHoqdm9fIuDvnA/","A1:C11");importrange("https://docs.google.com/spreadsheets/d/14wNl76Uv6UrByYmB3UVp8MzAiqNicVHoqdm9fIuDvnA/","HR2011!A2:C15")}
 
 This importrange function helps us to combine data from two different pages from a worksheet and combine them to a new worksheet.
