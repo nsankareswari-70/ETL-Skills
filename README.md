@@ -183,5 +183,12 @@ More Examples:
 =importxml("https://www.mollyjogger.com/collections/inventory","//span[contains(@class,'money')][not(contains(@class,'original-price'))]")
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/2fc46a6c4c904b1441c1b114235f29d9dccf00cc/ex139.png)
 
+## importrange function in Google Sheets
+In this case, I have data in 2 different worksheet pages. HR information - HR2010 and HR2011
+And I want to append one after the other.
+={importrange("https://docs.google.com/spreadsheets/d/14wNl76Uv6UrByYmB3UVp8MzAiqNicVHoqdm9fIuDvnA/","A1:C11");importrange("https://docs.google.com/spreadsheets/d/14wNl76Uv6UrByYmB3UVp8MzAiqNicVHoqdm9fIuDvnA/","HR2011!A2:C15")}
+
+This importrange function helps us to combine data from two different pages from a worksheet and combine them to a new worksheet.
+
 
 
