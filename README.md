@@ -194,3 +194,9 @@ This importrange function helps us to combine data from two different pages from
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/62fb739550db73cb4d265ff0b67772dcc1fd284e/ex141.png)
 ![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/62fb739550db73cb4d265ff0b67772dcc1fd284e/ex142.png)
 
+## importdata()
+=importdata("https://pasteur.epa.gov/uploads/10.23719/1528686/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv")
+## importfeed()
+
+=importfeed("https://feeds.transistor.fm/i-want-to-hack","items title",true,50)
+
