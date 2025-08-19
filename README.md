@@ -200,3 +200,5 @@ This importrange function helps us to combine data from two different pages from
 
 =importfeed("https://feeds.transistor.fm/i-want-to-hack","items title",true,50)
 
+## image()
+
