@@ -202,4 +202,4 @@ This importrange function helps us to combine data from two different pages from
 
 ## image()
 
-![img alt]("https://github.com/nsankareswari-70/ETL-Skills/blob/8356cea8ce1185996878de9b94fb896f78c3774c/ex147.png")
+![img alt](https://github.com/nsankareswari-70/ETL-Skills/blob/8356cea8ce1185996878de9b94fb896f78c3774c/ex147.png)
